@@ -1,0 +1,23 @@
+
+
+
+.circl {
+
+    margin-top: 50px;
+    background-color: rgb(240, 111, 49);
+	display: inline-flex;
+	width:16vw;
+	height:16vw; 
+    border-radius:50%;
+    padding:5px;
+    border: 5px solid #5BC8AC;
+    display: inline-flex;
+}
+.circl:after{
+	content: "";
+	padding-bottom:100%;
+	display: block;
+}
+
+
+}
